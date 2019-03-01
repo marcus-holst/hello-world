@@ -1,2 +1,2 @@
 # hello-world
-A test repository
+I work mainly with Google App/Ads Script and Python.
